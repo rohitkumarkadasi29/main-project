@@ -1,0 +1,71 @@
+.logo-name-wrapper {
+    margin-top: 5px;
+}
+
+.img-text-wrapper {
+    display         : flex;
+    background-color: #eceaea;
+}
+
+img.accessIcon {
+    width     : 33pc;
+    margin    : 50px 0px 0px 125px;
+    box-shadow: 0 0 4px grey;
+}
+
+.img-wrapper {
+    width: 50%;
+}
+
+.text-wrapper {
+    margin-left: 120px;
+}
+
+.Quote {
+    font-size  : 50px;
+    width      : 61%;
+    margin     : 150px 0 0 85px;
+    line-height: 60px;
+    color      : #262626;
+    font-family: 'Poppins', sans-serif;
+}
+
+.subQuote {
+    font-size  : 17px;
+    font-family: system-ui;
+    width      : 50%;
+    line-height: 30px;
+    margin     : 15px 0px 0px 95px;
+    font-weight: 500;
+    color      : #737373;
+}
+
+.secureIcon {
+    width     : 33pc;
+    margin    : 0 125px 40px 0;
+    box-shadow: 0 0 4px grey;
+}
+
+.Quote2 {
+    font-size  : 50px;
+    width      : 61%;
+    margin     : 150px 0 0 0;
+    line-height: 60px;
+    color      : #262626;
+    font-family: 'Poppins', sans-serif;
+}
+
+.subQuote2 {
+    font-size  : 17px;
+    font-family: system-ui;
+    width      : 50%;
+    line-height: 30px;
+    margin     : 15px 0 0 5px;
+    font-weight: 500;
+    color      : #737373;
+}
+
+.img-text-wrapper2 {
+    display   : flex;
+    margin-top: 80px;
+}

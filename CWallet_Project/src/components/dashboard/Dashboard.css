@@ -1,0 +1,20 @@
+.col-wrapper {
+    width      : 0 !important;
+    margin-left: 440px;
+}
+
+nav.nav-wrapper {
+    width        : 80%;
+    background   : #373636;
+    margin       : 40px 0 0 137px;
+    border-radius: 4px;
+}
+
+a.nav-home-btn.active {
+    margin: 1px 0 0 40px;
+}
+
+.nav-home-Listbtn {
+    margin     : 1px 0 0 40px !important;
+    font-weight: 500;
+}

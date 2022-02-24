@@ -1,0 +1,18 @@
+nav.file-nav-wrapper {
+    width        : 100%;
+    background   : #373636;
+    margin       : 60px 0 0 0;
+    border-radius: 4px;
+}
+
+/* a.nav-home-filebtn.active {
+    margin:0 !important;
+} */
+.header nav a {
+    margin: 0 0 0 40px !important;
+}
+
+.nav-home-fileListbtn {
+    margin     : 1px 0 0 40px !important;
+    font-weight: 500;
+}

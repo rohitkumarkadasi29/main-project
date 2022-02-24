@@ -1,0 +1,87 @@
+.navbar-container {
+    height    : 65px;
+    box-shadow: 0px 0px 4px gray;
+}
+
+.logo-name-wrapper {
+    margin-top: 5px;
+}
+
+.nav-btn-container {
+    margin-left: 55pc !important;
+}
+
+.nav-btn {
+    height     : 47px;
+    line-height: 2.2 !important;
+}
+
+img.logoWallet {
+    width      : 45px;
+    margin-left: 25px;
+    margin-top : -15px;
+}
+
+span.website-title {
+    margin        : 0 0 0 5px;
+    color         : #343435;
+    font-size     : 33px;
+    letter-spacing: 0;
+}
+
+.navbar-body-wrapper {
+    display: flex;
+    width  : 100%;
+}
+
+.homePageQuote {
+    font-size                    : 50px;
+    width                        : 35%;
+    padding                      : 40px 40px;
+    /* box-shadow                : 0 0 6px silver;
+    border-bottom-right-radius   : 40px; */
+    margin                       : 130px 80px 130px 50px;
+    line-height                  : 60px;
+    color                        : #3d3c3c;
+    font-family                  : 'Poppins', sans-serif;
+}
+
+.homePageSubQuote {
+    font-size  : 17px;
+    font-family: system-ui;
+    line-height: 30px;
+    margin-top : 15px;
+    font-weight: 500;
+    color      : #737373;
+}
+
+.btn-container {
+    text-align: right;
+    margin-top: 25px;
+}
+
+.img-container {
+    margin: 100px 0 0 0;
+}
+
+img.image3 {
+    width     : 50pc;
+    margin-top: -35px;
+}
+
+.laptopIcon {
+    width: 55rem;
+
+}
+
+img.lockIcon {
+    position: absolute;
+    width   : 100px;
+}
+
+.floderGif {
+    position: absolute;
+    top     : 28pc;
+    right   : 54pc;
+    width   : 100px;
+}
